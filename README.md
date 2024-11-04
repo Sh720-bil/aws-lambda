@@ -1,2 +1,2 @@
 # aws-lambda
- that allows developers to run code without managing servers
+ it allows to developers to run code without managing servers
